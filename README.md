@@ -99,6 +99,6 @@ Shoutout to Flutter community, choose-your-own-adventure pioneers, and you for c
 
 Connect with me on LinkedIn for more dev tips and projects:
 
-![LinkedIn Banner]()
+![LinkedIn Banner](image.png)
 
 Thanks for exploring Destini – may your choices lead to awesome code! 🌌

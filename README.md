@@ -1,6 +1,6 @@
 # Destini: Choose Your Own Adventure 🚀
 
-![Destini Banner](images/banner.png)
+![Destini Banner](banner.png)
 
 Welcome to **Destini** – an thrilling, interactive storytelling app built with Flutter and Dart! 🌟 Imagine hitchhiking on a dark, winding road where every choice could lead to survival... or doom. 😱 This beginner-friendly project turns a simple choose-your-own-adventure tale into a fully functional mobile app, perfect for learning app development while having fun.
 

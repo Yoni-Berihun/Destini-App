@@ -22,7 +22,7 @@ This project was inspired by classic adventure books, but digitized for modern d
 
 Here's a glimpse of Destini in action – the starting screen where the hitchhiking horror begins:
 
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](screenshot.png)
 
 (Pro Tip: Tap those buttons wisely... or not! 😂)
 
@@ -37,7 +37,7 @@ Getting Destini up and running is a breeze. Follow these steps to embark on your
 
 2. **Clone the Repo**:
    ```
-   git clone https://github.com/yourusername/destini.git
+   git clone https://github.com/Yoni-Berihun/destini.git
    cd destini
    ```
 
@@ -79,7 +79,7 @@ Key Concepts Demonstrated:
 - **Conditionals**: Nested `if-else` for story branching.
 - **Visibility**: Hides buttons at endings for clean UX.
 
-For a full line-by-line explanation, check the comments in the code or our [tutorial thread](#) (coming soon!).
+
 
 ## 🚀 Future Enhancements & Contributions
 
@@ -99,6 +99,6 @@ Shoutout to Flutter community, choose-your-own-adventure pioneers, and you for c
 
 Connect with me on LinkedIn for more dev tips and projects:
 
-![LinkedIn Banner](images/linkedin_banner.png)
+![LinkedIn Banner]()
 
 Thanks for exploring Destini – may your choices lead to awesome code! 🌌
